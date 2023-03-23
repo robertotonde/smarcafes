@@ -1,6 +1,6 @@
 # smartcafes
 
-A new Flutter project.
+an online food ordering app for cafterias around campus
 
 ## Getting Started
 
